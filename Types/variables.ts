@@ -39,11 +39,3 @@ for(let movie of movies){
         foundMoive = "Amadeus";
     }
 }
-
-let age = "eighteen";
-// age = 19;
-// 숫자 타입은 문자열 타입에 할당할 수 없습니다.
-
-const kimchi = {
-    맛있어: true
-}
